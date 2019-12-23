@@ -1,4 +1,5 @@
-
+boton.addEventListener('click', ingresar);
+const boton = window.document.querySelector('#boton');
 
 
 function ingresar(){
